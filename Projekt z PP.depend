@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1644478634 source:d:\programy\codeblocks\kody\projekt z pp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<locale.h>
+	<string.h>
+	<cstring>
+
